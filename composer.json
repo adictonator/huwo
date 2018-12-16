@@ -1,0 +1,12 @@
+{
+	"autoload": {
+		"psr-4": {
+			"Huwo\\": "app/",
+			"Huwo\\Engine\\": "framework/Engine/"
+		},
+		"files": [
+			"framework/helpers/constants.php",
+			"framework/helpers/helpers.php"
+		]
+	}
+}
